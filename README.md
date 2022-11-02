@@ -11,7 +11,7 @@
         <li>PATCH: PATCH is similar to PUT request, but the only difference is, it modifies a part of the data. It will only replace the content that you want to update.</li>
         <li>DELETE: A DELETE request is used to delete the data on the server at a specified location.</li>
     </ul><br>
-    <h1">Question2:Explain the concept of middleware in Node.js.</h1>
+    <h1>Question2:Explain the concept of middleware in Node.js.</h1>
     <ul>
         <li>Middleware are like general function which takes three parameters as request,response and next.</li>
         <li>These middleware are used to execute some function before the resposne is send back to the client.</li>
